@@ -1,10 +1,16 @@
-# Modules in python
-# It's single file
-
-# import mymodule
-# mymodule.say_hello('Pratap')
-# mymodule.say_hello('Raj')
-
-# Import specific fucntion and variable
-from mypackage.mymodule import person1
-print(person1['name'])
+{
+ "cells": [],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "name": "python",
+   "version": "3.12.0"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 2
+}
