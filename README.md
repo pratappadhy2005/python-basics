@@ -35,7 +35,7 @@ python-basics/
 
 ## ▶️ How to Run
 
-You need Python 3 installed. To run any script:
+You need Python 3  or higher version  installed. To run any script:
 
 ```bash
 python filename.py
