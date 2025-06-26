@@ -1,5 +1,7 @@
 # Python Basics Codebase with end to end example
 
+zero to hero
+
 This repository contains a collection of Python scripts demonstrating basic and essential programming concepts. It's designed to help beginners understand core Python constructs through simple, clear, and well-commented examples.
 
 ## 📂 Structure
