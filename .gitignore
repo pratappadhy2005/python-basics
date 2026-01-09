@@ -44,3 +44,6 @@ ruff_cache/
 .idea/
 *.sublime-project
 *.sublime-workspace
+
+# Custom virtual environment
+myenv/
