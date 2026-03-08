@@ -1,4 +1,4 @@
-# Python Basics Codebase with end to end examples
+# Python Basics Codebase with end to end examples - ALL Concepts
 
 zero to hero series
 
