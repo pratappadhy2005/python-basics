@@ -35,7 +35,7 @@ python-basics/
   - Inheritance and Encapsulation
 - Error and Exception Handling
 
-## ▶️ How to Run
+## ▶️ How to Run this repo
 
 You need Python 3  or higher version  installed. To run any script:
 
