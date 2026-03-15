@@ -2,7 +2,7 @@
 
 zero to hero series 2026
 
-This repository contains a collection of Python scripts demonstrating basic and essential programming concepts. It's designed to help beginners understand core Python constructs through simple, clear, and well-commented examples.
+This repository contains a collection of various Python scripts demonstrating basic and essential programming concepts. It's designed to help beginners understand core Python constructs through simple, clear, and well-commented examples.
 
 ## 📂 Structure
 
