@@ -1,3 +1,0 @@
-my_secret=123
-your_secret=123
-test_secret=123
